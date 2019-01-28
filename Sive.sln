@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sive", "Siidform\Sive.csproj", "{234C2CC1-2D94-424F-B421-CFE10E694BAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{234C2CC1-2D94-424F-B421-CFE10E694BAB}.Debug|x86.ActiveCfg = Debug|x86
+		{234C2CC1-2D94-424F-B421-CFE10E694BAB}.Debug|x86.Build.0 = Debug|x86
+		{234C2CC1-2D94-424F-B421-CFE10E694BAB}.Release|x86.ActiveCfg = Release|x86
+		{234C2CC1-2D94-424F-B421-CFE10E694BAB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
